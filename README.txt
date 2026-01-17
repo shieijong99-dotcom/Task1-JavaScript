@@ -28,6 +28,6 @@ It reads task data from a JSON string and allows the user to perform several act
 
 //How to Run (VS Code)
 1. Install Node.js
-2. Download folder from GitHub link then open the project folder in VS Code
+2. Go to my project folder GitHub link, then download the folder or open with GitHub desktop in VS Code
 3. Open the terminal in VS Code
 4. Run the program with command : node test.js
